@@ -1,1 +1,9 @@
-welcome perfect this project together!
+欢迎一起完善这个基于HTTP协议的RPC项目
+
+guide:开发指导
+lib:以来jar包
+source:项目配置文件
+src:项目源代码
+
+开发目标：
+做出一个性能可靠、伸缩性比较好的RPC项目。
